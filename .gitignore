@@ -1,0 +1,13 @@
+*
+
+!.editorconfig
+!.gitignore
+!.htmlhintrc
+!.stylelintrc.json
+
+!index.html
+!contact.html
+!about.html
+
+!img/
+!css/
