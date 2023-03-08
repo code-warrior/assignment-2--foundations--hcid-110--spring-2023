@@ -1,0 +1,31 @@
+body {
+  background: #ffe4c4 url('../img/heroimg.jpg') no-repeat fixed 50% 50% / cover;
+  font-size: 20px;
+}
+
+nav ul li {
+  display: inline;
+  font-weight: 300;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'PT Sans', Calibri, Tahoma, sans-serif;
+  color: #1c1374;
+}
+
+nav ol li {
+  font-weight: 300;
+  font-family: 'PT Sans', Calibri, Tahoma, sans-serif;
+  color: #700f84;
+}
+
+/* stylelint-disable-next-line selector-list-comma-newline-after */
+h1, h2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.highlight {
+  background-color: #ffc0cb;
+  /* stylelint-disable-next-line no-missing-end-of-source-newline */
+}
